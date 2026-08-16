@@ -106,15 +106,21 @@ prediction = (E_clean @ T.t()).argmax(dim=1)
 ## Citation
 
 ```bibtex
-@inproceedings{prism2026cikm,
-  title     = {Prototype-Rectified Iterative Self-supervised Manifold Denoising
-               under Severe Acoustic Shift},
-  booktitle = {Proceedings of the 35th ACM International Conference on
-               Information and Knowledge Management (CIKM)},
-  year      = {2026}
+@inproceedings{shukla2026prism,
+  author    = {Shukla, Ashish Anand and Thakur, Rini Smita and Das, Aryan and Kurmi, Vinod K.},
+  title     = {Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift},
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  year      = {2026},
+  month     = {November},
+  address   = {Rome, Italy},
+  publisher = {ACM},
+  doi       = {10.1145/3799682.3840694}
 }
 ```
 
 ---
+*Note: The DOI will resolve in the ACM Digital Library around the conference date (November 2026).*
+
+Preprint also available on arXiv: *(link coming soon)*
 
 Noise injection pipeline adapted from [AudioText-ContextDA](https://github.com/eacevedo1/AudioText-ContextDA) (Apache-2.0).
