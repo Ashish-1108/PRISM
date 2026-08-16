@@ -1,6 +1,6 @@
 """
 PRISM: Prototype-Rectified Iterative Self-supervised Manifold Denoising
-CIKM 2026 | https://github.com/Ashish-1108/AudioText-PRISM
+CIKM 2026 | https://github.com/Ashish-1108/PRISM
 
 Usage:
     from prism import prism, deploy
