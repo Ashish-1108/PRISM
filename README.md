@@ -3,6 +3,8 @@
 Official implementation of the CIKM 2026 paper:  
 **"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"**
 
+Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Data Science and Engineering (DSE), Indian Institute of Science Education and Research (IISER) Bhopal.
+
 ![PRISM Teaser](figures/teaser.png)
 
 ---
