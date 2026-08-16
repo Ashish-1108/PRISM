@@ -5,7 +5,7 @@ Official implementation of the CIKM 2026 paper:
 
 Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Data Science and Engineering (DSE), Indian Institute of Science Education and Research (IISER) Bhopal.
 
-![PRISM Teaser](figures/teaser.png)
+![PRISM Teaser](figures/fig_architecture_prism-1.png)
 
 ---
 
