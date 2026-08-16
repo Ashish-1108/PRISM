@@ -3,9 +3,12 @@
 Official implementation of the CIKM 2026 paper:  
 **"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"**
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/)
+
 Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Data Science and Engineering (DSE), Indian Institute of Science Education and Research (IISER) Bhopal.
 
-![PRISM Teaser](figures/fig_architecture_prism-1.png)
+![PRISM Architecture](figures/fig_architecture_prism-1.png)
 
 ---
 
@@ -13,8 +16,8 @@ Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Dat
 
 **Clone and install**
 ```bash
-git clone https://github.com/Ashish-1108/AudioText-PRISM.git
-cd AudioText-PRISM
+git clone https://github.com/Ashish-1108/PRISM.git
+cd PRISM
 pip install -r requirements.txt
 ```
 
