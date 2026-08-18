@@ -1,14 +1,19 @@
 <div align="center">
-# PRISM: Prototype-Rectified Iterative Self-supervised Manifold Denoising
 
-<a href="ASHISH_PROFILE_URL">Ashish Anand Shukla</a> ,
-<a href="RINI_PROFILE_URL">Rini Smita Thakur</a> ,
-<a href="aryan-das.netlify.app">Aryan Das</a> ,
+<h1>PRISM: Prototype-Rectified Iterative Self-supervised Manifold Denoising</h1>
+
+<p>
+<a href="ASHISH_PROFILE_URL">Ashish Anand Shukla</a> ·
+<a href="RINI_PROFILE_URL">Rini Smita Thakur</a> ·
+<a href="https://aryan-das.netlify.app">Aryan Das</a> ·
 <a href="VINOD_PROFILE_URL">Vinod K. Kurmi</a>
+</p>
 
+<p>
+Official implementation of the CIKM 2026 paper:<br>
+<strong>"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"</strong>
+</p>
 
-Official implementation of the CIKM 2026 paper:  
-**"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"**
 </div>
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
