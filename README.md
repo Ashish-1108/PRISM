@@ -1,9 +1,9 @@
 <div align="center">
 # PRISM: Prototype-Rectified Iterative Self-supervised Manifold Denoising
 
-<a href="ASHISH_PROFILE_URL">Ashish Anand Shukla</a>
-<a href="RINI_PROFILE_URL">Rini Smita Thakur</a> 
-<a href="aryan-das.netlify.app">Aryan Das</a> 
+<a href="ASHISH_PROFILE_URL">Ashish Anand Shukla</a> ,
+<a href="RINI_PROFILE_URL">Rini Smita Thakur</a> ,
+<a href="aryan-das.netlify.app">Aryan Das</a> ,
 <a href="VINOD_PROFILE_URL">Vinod K. Kurmi</a>
 
 
