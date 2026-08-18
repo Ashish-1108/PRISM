@@ -117,13 +117,16 @@ prediction = (E_clean @ T.t()).argmax(dim=1)
   month     = {November},
   address   = {Rome, Italy},
   publisher = {ACM},
-  doi       = {10.1145/3799682.3840694}
+  doi       = {10.1145/3799682.3840694},
+  eprint    = {2608.15037},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.SD}
 }
 ```
 
 ---
 *Note: The DOI will resolve in the ACM Digital Library around the conference date (November 2026).*
 
-Preprint also available on arXiv: *(link coming soon)*
+Preprint also available on arXiv: [arXiv:2608.15037](https://arxiv.org/abs/2608.15037)
 
 Noise injection pipeline adapted from [AudioText-ContextDA](https://github.com/eacevedo1/AudioText-ContextDA) (Apache-2.0).
