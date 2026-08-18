@@ -14,10 +14,18 @@ Official implementation of the CIKM 2026 paper:<br>
 <strong>"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"</strong>
 </p>
 
+<p>
+<a href="https://opensource.org/licenses/Apache-2.0">
+<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0">
+</a>
+<a href="https://arxiv.org/abs/2608.15037">
+<img src="https://img.shields.io/badge/arXiv-2608.15037-b31b1b.svg" alt="arXiv: 2608.15037">
+</a>
+</p>
+
 </div>
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![arXiv](https://img.shields.io/badge/arXiv-2608.15037-b31b1b.svg)](https://arxiv.org/abs/2608.15037)
+
 
 Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Data Science and Engineering (DSE), Indian Institute of Science Education and Research (IISER) Bhopal.
 
