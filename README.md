@@ -4,27 +4,29 @@
 
 <p>
 <a href="https://www.linkedin.com/in/ashish-shukla11">Ashish Anand Shukla</a> ·
-<a href="RINI_PROFILE_URL">Rini Smita Thakur</a> ·
+<a href="https://scholar.google.com/citations?user=t259s5kAAAAJ">Rini Smita Thakur</a> ·
 <a href="https://aryan-das.netlify.app">Aryan Das</a> ·
-<a href="VINOD_PROFILE_URL">Vinod K. Kurmi</a>
+<a href="https://vinodkkurmi.github.io/">Vinod K. Kurmi</a>
 </p>
 
 <p>
-Official implementation of the CIKM 2026 paper:<br>
-<strong>"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"</strong>
+Official implementation of the <strong>ACM CIKM 2026</strong> paper:<br>
+<strong><a href="https://doi.org/10.1145/3799682.3840694">"Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift"</a></strong>
 </p>
 
 <p>
-<a href="https://opensource.org/licenses/Apache-2.0">
-<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0">
+<a href="https://doi.org/10.1145/3799682.3840694">
+<img src="https://img.shields.io/badge/ACM_CIKM_'26-10.1145%2F3799682.3840694-0085CA.svg" alt="ACM CIKM 2026">
 </a>
 <a href="https://arxiv.org/abs/2608.15037">
 <img src="https://img.shields.io/badge/arXiv-2608.15037-b31b1b.svg" alt="arXiv: 2608.15037">
 </a>
+<a href="https://opensource.org/licenses/Apache-2.0">
+<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License: Apache 2.0">
+</a>
 </p>
 
 </div>
-
 
 
 Developed at the **VisDom Lab (Visual Data Computing Group)**, Department of Data Science and Engineering (DSE), Indian Institute of Science Education and Research (IISER) Bhopal.
@@ -131,23 +133,22 @@ prediction = (E_clean @ T.t()).argmax(dim=1)
 
 ```bibtex
 @inproceedings{shukla2026prism,
-  author    = {Shukla, Ashish Anand and Thakur, Rini Smita and Das, Aryan and Kurmi, Vinod K.},
+  author    = {Shukla, Ashish Anand and Thakur, Rini Smita and Das, Aryan and Kurmi, Vinod Kumar},
   title     = {Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift},
-  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
   year      = {2026},
-  month     = {November},
-  address   = {Rome, Italy},
-  publisher = {ACM},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  url       = {[https://doi.org/10.1145/3799682.3840694](https://doi.org/10.1145/3799682.3840694)},
   doi       = {10.1145/3799682.3840694},
-  eprint    = {2608.15037},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.SD}
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  pages     = {4349--4359},
+  numpages  = {11},
+  location  = {Rome, Italy},
+  series    = {CIKM '26}
 }
 ```
 
 ---
-*Note: The DOI will resolve in the ACM Digital Library around the conference date (November 2026).*
-
-Preprint also available on arXiv: [arXiv:2608.15037](https://arxiv.org/abs/2608.15037)
+Full text is available Open Access in the ACM Digital Library and on arXiv:2608.15037.
 
 Noise injection pipeline adapted from [AudioText-ContextDA](https://github.com/eacevedo1/AudioText-ContextDA) (Apache-2.0).
